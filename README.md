@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="mailto:fernando.f.thompson@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-E94D5F?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="35">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35">
   </a>
   <a href="https://www.linkedin.com/in/fernandofthompson/">
     <img src="https://img.shields.io/badge/-LinkedIn-30A3DC?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
