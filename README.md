@@ -34,6 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="60" title="JavaScript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgresql" height="60" title="Postgresql">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="60" title="AWS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Puthon" height="60" title="Python">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="60" title="HTML5">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="60" title="CSS3">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="60" title="Git">
@@ -46,5 +47,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ftfernando&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&show_owner=true" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ftfernando&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ftfernando&&layout=donut-vertical&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs">
 </p>
